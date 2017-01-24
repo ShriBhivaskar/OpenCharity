@@ -29,8 +29,8 @@ Open charity is an organization that hosts events in London about open source so
 1. Download the source code from my github account. The project is listed as http://github.com/ShriBhivaskar/OpenCharity
 2. Unzip the folder and put inside htdocs folder inside the C drive.
 3. Simply start the XAMPP engine Apache webserver.
-4. Go to the browser and put the address as http://localhost/OpenDrupal/sites/all/themes/OC/geekl.php
-5. Enter and here's presenting you the all new GeekLabel website.
+4. Go to the browser and put the address as http://localhost/OpenDrupal/index.php
+5. Enter and here's presenting you the all new OpenCharity website.
 
 
 ============ May I Help You ===========
